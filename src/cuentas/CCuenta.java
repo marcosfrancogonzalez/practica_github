@@ -1,7 +1,7 @@
 package cuentas;
 
     /** Comentarios para Javadoc:
- * @author Marcos Franco
+ * @author Marcos Franco Gonz.
  * 
  * @Version: V0.1
  * 
